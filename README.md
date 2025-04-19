@@ -1,0 +1,2 @@
+# DL_Fonts_on_GH
+在Github上下載字體的正確姿勢及安裝方法
