@@ -78,6 +78,16 @@
 
 ### Android 用戶、下筆 APP 安裝
 
+①首先下載 ttf 字體文件至您的手機或平板。
+
+②依照下圖指示即可匯入使用
+
+![Pic341](./Pic/App1.jpg)
+
+③完成！現在您可以在下筆 APP 中使用了。 :bowtie:
+
+![Pic342](./Pic/App2.jpg)
+
 ### iPad、iPhone 用戶全局安裝
 
 ![:Counter](https://count.getloli.com/@DL_Fonts_on_GH?name=DL_Fonts_on_GH&theme=capoo-2&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
