@@ -82,11 +82,11 @@
 
 ②依照下圖指示即可匯入使用
 
-![Pic341](./Pic/App1.jpg)
+![Pic341](./Pic/App1.png)
 
 ③完成！現在您可以在下筆 APP 中使用了。 :bowtie:
 
-![Pic342](./Pic/App2.jpg)
+![Pic342](./Pic/App2.png)
 
 ### iPad、iPhone 用戶全局安裝
 
