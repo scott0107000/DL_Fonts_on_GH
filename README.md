@@ -34,7 +34,7 @@
 
 ## 2第二步——進行解壓縮
 
-若下載完後的文件格式為zip、rar……等您就需要進行解壓縮。[——不知道如何查看點此——](！placeholder)
+若下載完後的文件格式為zip、rar……等您就需要進行解壓縮。[——不知道如何查看點此——](./Filename.md)
 
 您可以使用電腦內置解壓軟件——若有——或下載免費開源解壓縮軟件[7zip 官網](https://www.7-zip.org/) [繁體中文官網](https://www.developershome.com/7-zip/)，注意下載及安裝7zip軟件是 **免費** 的，您不應該為此付出額外的代價，包括提供金錢或服務。
 
@@ -58,7 +58,7 @@
 
 ![Pic312](./Pic/Win2.png)
 
-③完成！現在您可以在各大軟件中使用了。
+③完成！現在您可以在各大軟件中使用了。 :bowtie:
 
 ### Mac 用戶
 
@@ -74,10 +74,10 @@
 
 ![Pic332](./Pic/Lin2.png)
 
-③完成！現在您可以在各大軟件中使用了。
+③完成！現在您可以在各大軟件中使用了。 :bowtie:
 
 ### Android 用戶、下筆 APP 安裝
 
 ### iPad、iPhone 用戶全局安裝
 
-¹²³⁴⁵⁶⁷⁸⁹⁰⁺⁻
+![:Counter](https://count.getloli.com/@DL_Fonts_on_GH?name=DL_Fonts_on_GH&theme=capoo-2&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
